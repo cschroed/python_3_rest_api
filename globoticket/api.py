@@ -21,7 +21,7 @@ app = FastAPI()
 PROJECT_ROOT = Path(__file__).parent.parent
 
 def nonsense(a, b, c) -> str:
-    a = b
+    a = 2
     return None
 
 def get_session() -> Session:
