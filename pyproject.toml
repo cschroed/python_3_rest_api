@@ -2,7 +2,7 @@
 name = "globoticket"
 version = "0.1.0"
 description = "Demo project for the Pluralsight course 'Building a REST API with Python 3'"
-authors = ["Reindert-Jan Ekker <info@codesensei.nl>"]
+authors = ["Reindert-Jan Ekker <info@codesensei.nl>", "Chris Schroeder <chris@app47.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
